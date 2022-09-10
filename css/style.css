@@ -1,0 +1,133 @@
+.navbar-brand img{
+    max-width:300px;
+}
+.nav-item a{
+    margin-left: 5px;
+    color: white!important;
+}
+.m-l-auto{
+    margin-left: auto;
+    
+}
+.left-ul{
+    list-style: none;
+    float: left;
+}
+.left-ul li{
+    padding: 0px 10px;
+    margin-top: 10px;
+    float: left;
+    color: white;
+
+}
+.c-white{
+    color: rgb(255, 255, 255);
+}
+.flag img{
+    max-width: 40px;
+}
+#video12{
+    z-index: 1;
+}
+.fa-pause-circle{
+    color: rgba(255, 255, 255, 0.645);
+    position:absolute;
+    font-size: 100px;
+   margin-top: 20%;
+   z-index: 66666;
+   margin-left: 50%;
+   margin-right: 60%;
+
+    
+    
+
+    
+
+}
+.fa-play-circle{
+    display: none;
+    color: rgba(255, 255, 255, 0.645);
+    position:absolute;
+    font-size: 100px;
+   margin-top: 20%;
+   
+   margin-left: 50%;
+   margin-right: 60%;
+   
+
+}
+#play{
+    display: none;
+}
+.poster{
+    margin-top: -1px;
+}
+.poster img{
+    width:100%;
+    padding:0;
+    margin: 0;
+    
+}
+.red-btn{
+    position: absolute;
+    margin: 20% 46%;
+    padding: 8px;
+    background-color: red;
+    color: white;
+    font-weight: 600;
+    width: 100px;
+    border: none;
+}
+.videofooter{
+    height: 60px;
+    background-color: black;
+    margin-top: -10px;
+}
+.w-100{
+    width: 100%;
+    
+    margin-left: calc(0 * var(--bs-gutter-x))!important;
+}
+.w-100 .col-3{
+    padding: 0;
+    overflow: hidden;
+    height: auto;
+}
+.w-100 img{
+    width: 100%;
+    
+    transition: 0.8s all ease-in-out;
+    overflow: hidden;
+}
+
+
+
+
+
+.w-100 .col-3:hover img {
+    transform: scale(1.3);
+    display: block;
+    
+    
+    
+}
+.text-body{
+    position: absolute;
+    width: inherit;
+    z-index: 54444;
+    padding-top: 120px;
+    
+   
+    
+}
+.text-body h4{
+    font-size: 15px;
+    color: white;
+    
+    font-family: "guardiansans-semibold";
+    word-break: break-word;
+    margin: 8px;
+    margin-bottom: auto;
+    font-weight: 500;
+    
+}
